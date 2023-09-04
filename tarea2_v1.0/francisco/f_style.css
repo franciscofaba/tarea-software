@@ -1,0 +1,110 @@
+
+html {
+    height: 100%;
+    background: linear-gradient(to bottom, #688ca0, #cccccc);
+    font-family: Arial, sans-serif;
+  }
+header{
+    background-color: #1f1f1f;
+    border-bottom: 3px solid #272626;
+    height: 90px;
+    border-radius: 5px;
+    border-width: 2rem;
+    padding: 20px;
+    color:aliceblue;
+}
+
+h1{
+    color: #cccccc;
+}
+#boton{
+    float: right;
+    color: white;
+    
+    background-color: #262525; /* Cambia el color del fondo según tu preferencia */
+    padding: 20px; /* Añade espacio de relleno para separar el contenido del fondo */
+    border-radius: 2px;
+    margin: 30px;
+    margin-left:50px;
+  }
+#logo{
+    float: left; /* Mueve la imagen hacia la izquierda */
+    margin-right: 20px; /* Agrega un margen a la derecha para separarla de otros elementos */
+    border-radius: 10px; /* Redondea las esquinas de la imagen */
+    font-family: "Arial", sans-serif;
+}
+
+h2{
+    color: #0f1839;
+    font-size: 30px;
+    background-color: #959595;
+    border-top:50px;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: #1f1f1f;
+    height:50px;
+    
+}
+
+main{
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px; /* Agrega un margen a la derecha para separarla de otros elementos */
+    border-radius: 5px;
+    border-top: 5px;
+    height: 900px;
+
+}
+
+#datos{
+    color: white;
+    padding-left: 20px; /* Añade espacio a la izquierda para la viñeta */
+    background-color: #666262; /* Cambia el color del fondo según tu preferencia */
+    padding: 20px; /* Añade espacio de relleno para separar el contenido del fondo */
+    border-radius: 10px; 
+    width:fit-content;
+}
+
+ul {
+    list-style-type: disc; /* Cambia el estilo de la viñeta */
+    padding-left: 20px; /* Añade espacio a la izquierda para la viñeta */
+    
+  }
+  
+li {
+    margin-bottom: 10px; /* Espacio entre cada elemento de la lista */
+  }
+
+  
+#yo{
+    color: white;
+    padding-left: 10px; /* Añade espacio a la izquierda para la viñeta */
+    background-color: #262525; /* Cambia el color del fondo según tu preferencia */
+    padding: 10px; /* Añade espacio de relleno para separar el contenido del fondo */
+    border-radius: 2px; 
+    margin-left: 20px;
+    width:fit-content;
+}
+
+#sep{
+    padding-left: 10px; /* Añade espacio a la izquierda para la viñeta */
+    background-color: #1c1d1d; /* Cambia el color del fondo según tu preferencia */
+    padding: 10px; /* Añade espacio de relleno para separar el contenido del fondo */
+    border-radius: 5px; 
+    width:fit-content;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+#uai{
+    margin-top: 40px;
+    float: right; /* Mueve la imagen a la izquierda */
+    margin-right: 200px; /* Agrega un margen a la derecha para separar la imagen del texto */
+    background-color: #272626;
+    border-radius: 5px;
+    padding: 10px;
+    opacity: 0.9;
+  }
+

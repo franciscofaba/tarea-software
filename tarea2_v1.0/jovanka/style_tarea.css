@@ -1,0 +1,62 @@
+/* Estilo para el fondo del cuerpo */
+body {
+    background-color: #e6c9e8; /* Cambia el valor hexadecimal por el color que desees */
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    text-align: center;
+
+
+
+}
+
+
+.button{
+   
+    color: white;
+   
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+}
+
+
+
+
+
+footer {
+    color: rgba(0, 0, 0, 0.5); /* Cambia el valor "0.5" según la transparencia deseada */
+  }
+  .content {
+    width: 50%;
+    margin: 20px 10px 20px 23%;;
+    padding: 20px;
+    background-color: rgba(197, 156, 192, 0.749);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(234, 238, 238, 0.638);
+    color: white;
+}
+.content a {
+    color: white;
+}
+
+#logo{
+    display: flex;
+    align-items: left;
+    border-radius: 10px;
+}
+
+
+.image-container {
+    margin-bottom: 20px; 
+    display: inline-block; 
+    vertical-align: top;
+    margin-right: 30px;
+}
+
+.inline-image {
+    display: block; 
+    width: 200px; 
+    margin-bottom: 10px; 
+}
