@@ -1,0 +1,82 @@
+body {
+    background-color: #b9a77edf; /* Cambia el valor hexadecimal por el color que desees */
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.Textframe{
+    background-color: #f4eeded6;
+    margin: 50px ;
+    padding: 5px;
+    display: flex;
+    flex: 1;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px rgba(135, 116, 71, 0.638);
+
+}
+
+.Textframe p {
+    text-align:left ;
+    line-height: 2.5;
+    text-shadow: #191918d6;
+
+}
+
+.Textframe .foto {
+    display: flex;
+   
+    align-items: center; 
+    width: 300px; 
+    height: 220px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+   
+}
+.Textframe .foto img {
+    width: 110%; 
+    height: auto; 
+    border-radius: 50%; 
+
+}
+
+.nav-externa{
+    position: absolute;
+    top: 0;
+    left: 75%;
+    padding: 15px;
+    
+    
+}
+.nav-externa a{
+    color: #fbfbfbc9;
+    margin-right: 20px;
+    text-decoration: none; 
+    
+   
+
+}
+
+.nav-externa a:hover {
+    color: #060202; /* Cambiar a rojo cuando el mouse pasa sobre el enlace */
+}
+
+
+
+footer {
+    color: rgba(0, 0, 0, 0.5); 
+  }
+
+  
+  #logo{
+    display: flex;
+    align-items: left;
+    border-radius: 5px;
+    box-shadow: #222220df;
+
+}
